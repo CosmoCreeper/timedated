@@ -13,16 +13,6 @@ TypeScript imports now work!
 - Get Day
 - Get Date
 - Timezones
-#### API Testing - v0.0.7
-- isLeapYear(year). PASSED
-- getWeekDay(cap). PASSED
-- isWeekDay(day). PASSED
-- getTime(date, sec). PASSED
-- convertMilitaryTime(time). PASSED
-- getDate(). PASSED
-- getDay(). PASSED
-- getMonth(). PASSED
-- getYear(). PASSED
 #### Changes - v0.0.7
 - TS Imports.
 ## How to Use?
