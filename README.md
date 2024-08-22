@@ -1,7 +1,7 @@
 # TimeDated
 ###### A JavaScript Time Module.
 ### v0.0.7
-Using a little cheat with a d.ts file, we got typescript imports to work. We know its not much, but we'll be adding more of the next few days, although, we cannot promise we will release a new version every day.
+TypeScript imports now work!
 #### API Features - v0.0.7
 - Is the given year a leap year?
 - Gets current week day.
@@ -36,5 +36,4 @@ Using a little cheat with a d.ts file, we got typescript imports to work. We kno
 **timedated.getMonth()**. Returns just the month. Ex: 3 in 3/1/2023.\
 **timedated.getYear()**. Returns just the year. Ex: 2023 in 3/1/2023.\
 **timedated.timezone.current()**. Returns your current timezone.
-#### Here's a tip! We recommend you delete the README.md file from this node module after installing it. Most people do not even look at the README unless on the npm website. Doing so will reduce the file size into half. *Even though the file size is only 4kb.*
-### Early Access Project.
+### WIP.
