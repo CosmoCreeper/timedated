@@ -1,20 +1,13 @@
 # TimeDated
 ###### A JavaScript Time Module.
+https://www.npmjs.com/package/timedated
+
 ### v0.0.7
 TypeScript imports now work!
-#### API Features - v0.0.7
-- Is the given year a leap year?
-- Gets current week day.
-- Is it the given day of the week?
-- Get Time w/ Date/Sec
-- Convert to Military Time
-- Get Month
-- Get Year
-- Get Day
-- Get Date
-- Timezones
+
 #### Changes - v0.0.7
 - TS Imports.
+  
 ## How to Use?
 **timedated.isWeekDay(year)**. Year is a number or string that you want to see if it is a leap year. Ex: 2024 or "2024".\
 **timedated.getWeekDay(cap)**. Cap may have one of many values. Leaving it blank, passing in 'none', 0, or "0", will return the week day in no caps. 'first', 1, or "1", will capitalize the first letter. 'all', 2, or "2", will capitalize all of the letters.\
@@ -26,4 +19,5 @@ TypeScript imports now work!
 **timedated.getMonth()**. Returns just the month. Ex: 3 in 3/1/2023.\
 **timedated.getYear()**. Returns just the year. Ex: 2023 in 3/1/2023.\
 **timedated.timezone.current()**. Returns your current timezone.
-### WIP.
+
+### WIP PROJECT.
